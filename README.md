@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Tobias, a PhD student at the University of Hamburg, Germany.
+
+I work with Generative Adversarial Nets (GANs) and am interested in anything that is related to generative models (mostly in computer vision), implicit models, and neural rendering.
+
+For more info check out my [website](https://www.tobiashinz.com/).
+
+📫 How to reach me: tob (dot) hinz (at) gmail.com
+
 <!--
 **tohinz/tohinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
