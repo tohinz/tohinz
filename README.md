@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-I'm Tobias, a Research Engineer at [Adobe Research](https://research.adobe.com/).
-
-I work with Generative Adversarial Nets (GANs) and am interested in anything that is related to generative models (mostly in computer vision), implicit models, and neural rendering.
-
 For more info check out my [website](https://www.tobiashinz.com/).
 
 📫 How to reach me: tob (dot) hinz (at) gmail.com
